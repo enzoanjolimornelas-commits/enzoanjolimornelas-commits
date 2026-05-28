@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm NaZo 👋</h1>
+<h1 align="center">Hi, I'm Enzo</h1>
 
 <p align="center">
   Full Stack JavaScript Developer focused on Embedded Systems and passionate about Mathematics.
